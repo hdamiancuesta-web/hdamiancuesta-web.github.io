@@ -1,0 +1,29 @@
+---
+title: "Héctor Damian Cuesta"
+output: html_document
+lang: es
+---
+
+![Espacio para mi fotografía, pendiente de agregar](avatar.svg){width=180px}
+
+## Sobre mí
+
+Mi nombre es Héctor Damian Cuesta y me interesa seguir construyendo mi formación académica.  
+Quiero desarrollar un pensamiento crítico sólido que me ayude a analizar ideas y tomar decisiones fundamentadas.  
+También busco fortalecer mis habilidades matemáticas para comprender y resolver problemas con mayor claridad.  
+En mi tiempo libre disfruto leer cómics, hacer ejercicio y explorar lecturas sobre temas que despiertan mi curiosidad.  
+Me motiva aprender programación porque encuentro interesante y divertido todo lo que se puede crear con ella.  
+Quiero pasar de imaginar soluciones a construir herramientas que me permitan ponerlas a prueba.  
+Me interesa orientar mi formación hacia la ciencia de datos y las finanzas.  
+Por eso considero la programación una habilidad importante para mi futuro profesional.  
+Como dato personal, me gusta combinar la imaginación de los cómics con el reto de entender problemas matemáticos.
+
+## Lo que quiero aprender
+
+- Pensamiento crítico y razonamiento matemático.
+- Programación y análisis de datos.
+- Aplicaciones de la ciencia de datos en las finanzas.
+
+[Mi GitHub](https://github.com/hdamiancuesta-web)
+
+Fotografía personal pendiente de agregar.
